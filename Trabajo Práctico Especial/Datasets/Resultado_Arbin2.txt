@@ -1,0 +1,5 @@
+badea, costo arbol: 2, costo metrica: 0.0540541 . Existe = 1 ~ No existe = 0. Resultado: 1
+jornalear, costo arbol: 5, costo metrica: 0.135135 . Existe = 1 ~ No existe = 0. Resultado: 1
+tabernera, costo arbol: 10, costo metrica: 0.27027 . Existe = 1 ~ No existe = 0. Resultado: 1
+Algoritmos, costo arbol: 14, costo metrica: 0.378378 . Existe = 1 ~ No existe = 0. Resultado: 0
+repatear, costo arbol: 19, costo metrica: 0.513514 . Existe = 1 ~ No existe = 0. Resultado: 1

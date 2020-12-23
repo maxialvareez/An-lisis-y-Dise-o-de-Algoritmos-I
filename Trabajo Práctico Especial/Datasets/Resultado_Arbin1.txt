@@ -1,0 +1,4 @@
+dichoso, costo arbol: 4, costo metrica: 0.4 . Existe = 1 ~ No existe = 0. Resultado: 1
+Algoritmos, costo arbol: 6, costo metrica: 0.6 . Existe = 1 ~ No existe = 0. Resultado: 0
+miguel, costo arbol: 9, costo metrica: 0.9 . Existe = 1 ~ No existe = 0. Resultado: 1
+empacador, costo arbol: 12, costo metrica: 1.2 . Existe = 1 ~ No existe = 0. Resultado: 1

@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1525981904 source:c:\users\familia\documents\unicen\algoritmosi\tpe\proyectotpe\main.cpp
+	<iostream>
+	<fstream>
+
+1530115902 source:c:\users\mequi\desktop\facultad\aydalgo\2018\segunda entrega\proyectotpe\proyectotpe\lista.cpp
+	"Lista.h"
+	<cstddef>
+	<stdlib.h>
+	<iostream>
+
+1530049235 c:\users\mequi\desktop\facultad\aydalgo\2018\segunda entrega\proyectotpe\proyectotpe\lista.h
+
+1530117798 source:c:\users\mequi\desktop\facultad\aydalgo\2018\segunda entrega\proyectotpe\proyectotpe\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	<stdlib.h>
+	"Lista.h"
+	"Arbin.h"
+
+1530118321 source:c:\users\mequi\desktop\facultad\aydalgo\2018\segunda entrega\proyectotpe\proyectotpe\arbin.cpp
+	<cstddef>
+	"Arbin.h"
+	<string>
+	<iostream>
+
+1530048355 c:\users\mequi\desktop\facultad\aydalgo\2018\segunda entrega\proyectotpe\proyectotpe\arbin.h
+
+1530047963 source:c:\users\mequi\desktop\facultad\aydalgo\2018\segunda entrega\proyectotpe\proyectotpe\llenararbol.c
+
+1530148188 source:c:\users\gianl\downloads\proyectotpe\arbin.cpp
+	<cstddef>
+	"Arbin.h"
+	<string>
+	<iostream>
+
+1530048355 c:\users\gianl\downloads\proyectotpe\arbin.h
+
+1530151152 source:c:\users\gianl\downloads\proyectotpe\lista.cpp
+	"Lista.h"
+	<cstddef>
+	<stdlib.h>
+	<iostream>
+
+1530049235 c:\users\gianl\downloads\proyectotpe\lista.h
+
+1530150820 source:c:\users\gianl\downloads\proyectotpe\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	<stdlib.h>
+	"Lista.h"
+	"Arbin.h"
+
+1530148188 source:c:\users\fleba\desktop\proyectotpemod\arbin.cpp
+	<cstddef>
+	"Arbin.h"
+	<string>
+	<iostream>
+
+1530048355 c:\users\fleba\desktop\proyectotpemod\arbin.h
+
+1530195916 source:c:\users\fleba\desktop\proyectotpemod\lista.cpp
+	"Lista.h"
+	<cstddef>
+	<stdlib.h>
+	<iostream>
+
+1530049235 c:\users\fleba\desktop\proyectotpemod\lista.h
+
+1530198275 source:c:\users\fleba\desktop\proyectotpemod\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	<stdlib.h>
+	"Lista.h"
+	"Arbin.h"
+
+1530148188 source:c:\users\mequi\desktop\facultad\aydalgo\proyectos\proyectotpemod\arbin.cpp
+	<cstddef>
+	"Arbin.h"
+	<string>
+	<iostream>
+
+1530048355 c:\users\mequi\desktop\facultad\aydalgo\proyectos\proyectotpemod\arbin.h
+
+1530302482 source:c:\users\mequi\desktop\facultad\aydalgo\proyectos\proyectotpemod\lista.cpp
+	"Lista.h"
+	<cstddef>
+	<stdlib.h>
+	<iostream>
+
+1530049235 c:\users\mequi\desktop\facultad\aydalgo\proyectos\proyectotpemod\lista.h
+
+1530307884 source:c:\users\mequi\desktop\facultad\aydalgo\proyectos\proyectotpemod\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	<stdlib.h>
+	"Lista.h"
+	"Arbin.h"
+
+1530148188 source:c:\users\mequi\desktop\facultad\aydalgo\2018\segunda entrega\proyectotpemod\arbin.cpp
+	<cstddef>
+	"Arbin.h"
+	<string>
+	<iostream>
+
+1530048355 c:\users\mequi\desktop\facultad\aydalgo\2018\segunda entrega\proyectotpemod\arbin.h
+
+1530302482 source:c:\users\mequi\desktop\facultad\aydalgo\2018\segunda entrega\proyectotpemod\lista.cpp
+	"Lista.h"
+	<cstddef>
+	<stdlib.h>
+	<iostream>
+
+1530049235 c:\users\mequi\desktop\facultad\aydalgo\2018\segunda entrega\proyectotpemod\lista.h
+
